@@ -27,11 +27,15 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [designpowers](https://github.com/Owl-Listener/designpowers) — A team of 10 design agents. Discovery through retrospective. You direct.
 
+**Expressing aesthetic intent**
+
+→ [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — Designers think in images. Agents think in text. mood.md bridges the gap.
+
+→ [voice-protocol](https://github.com/Owl-Listener/voice-protocol) — Brand strategists think in personality. Agents think in rules. voice.md bridges the gap.
+
 **Bridging design and engineering**
 
 → [agent-ready](https://github.com/Owl-Listener/agent-ready) — A skill + Figma plugin that scores how AI-readable your design files are, and compensates for the gaps.
-
-→ [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — Designers think in images. Agents think in text. mood.md bridges the gap.
 
 **The inclusive lens**
 
