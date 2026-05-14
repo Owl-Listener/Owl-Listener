@@ -63,9 +63,20 @@ Use all three when you want an agent to work within a complete brand context.
 
 ---
 
+## Relationship to agent-ready
+
+[agent-ready](https://github.com/Owl-Listener/agent-ready) scores how AI-readable your Figma file is — naming conventions, structure, accessibility. It's a diagnostic you run once and fix.
+
+`tokens.md` is a runtime context file you give an agent every time you ask it to generate UI. It's not checking anything — it's specifying intent. The two are complementary: agent-ready makes your Figma file readable, tokens.md tells the agent what the tokens in that file actually mean.
+
+tokens-protocol is also format-agnostic. agent-ready is Figma-specific. tokens.md works whether your tokens live in Figma variables, Tailwind, CSS custom properties, or JSON.
+
+---
+
 ## See also
 
 → [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — atmospheric and visual intent  
 → [voice-protocol](https://github.com/Owl-Listener/voice-protocol) — verbal identity  
+→ [agent-ready](https://github.com/Owl-Listener/agent-ready) — Figma file readiness diagnostic  
 → [tokens.example.md](./tokens.example.md) — a filled-in example  
 → [Owl-Listener](https://github.com/Owl-Listener/Owl-Listener) — the broader design × AI toolkit
