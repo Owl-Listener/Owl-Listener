@@ -41,7 +41,7 @@ Design × AI resources for the people designing and building agentic experiences
 
 ### The inclusive lens
 
-→ [inclusive-design-skills](https://github.com/Owl-Listener/inclusive-design-skills) — Accessibility skills for AI coding agents. The lens, not the addendum.
+→ [inclusive-design-skills](https://github.com/Owl-Listener/inclusive-design-skills) — Accessibility skills for AI coding agents. 
 
 ### Extending and integrating these tools
 
