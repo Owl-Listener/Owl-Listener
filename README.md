@@ -13,11 +13,11 @@ Design × AI resources for the people designing and building agentic experiences
 
 ## Where to start
 
-**Designing AI products for users**
+### Designing AI products for users
 
 → [agent-design-primer](https://github.com/Owl-Listener/agent-design-primer) — The reference for agentic UX: trust, refusals, plan visibility, accessibility. Five layers, 30,000 words, free.
 
-**Using AI more effectively as a designer**
+### Using AI more effectively as a designer
 
 → [ai-design-field-guide](https://github.com/Owl-Listener/ai-design-field-guide) — 46 ways to work with AI design tools. The thinking applies regardless of which tool you have open.
 
@@ -27,11 +27,11 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [designpowers](https://github.com/Owl-Listener/designpowers) — A team of 10 design agents. Discovery through retrospective. You direct.
 
-**Bridging design and engineering**
+### Bridging design and engineering
 
 → [agent-ready](https://github.com/Owl-Listener/agent-ready) — A skill + Figma plugin that scores how AI-readable your design files are, and compensates for the gaps.
 
-**Expressing aesthetic intent**
+### Expressing aesthetic intent
 
 → [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — Designers think in images. Agents think in text. mood.md bridges the gap.
 
@@ -39,17 +39,17 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [tokens-protocol](https://github.com/Owl-Listener/tokens-protocol) — Agents can read your token values. They can't read your intent. tokens.md fills the gap.
 
-**The inclusive lens**
+### The inclusive lens
 
 → [inclusive-design-skills](https://github.com/Owl-Listener/inclusive-design-skills) — Accessibility skills for AI coding agents. The lens, not the addendum.
 
-**Extending and integrating these tools**
+### Extending and integrating these tools
 
 → [agent-ready](https://github.com/Owl-Listener/agent-ready) — The shared/checks.js module implements all 13 agent-readiness checks as pure functions. Fork it, add checks, plug into your pipeline.
 
 → [ai-design-skills](https://github.com/Owl-Listener/ai-design-skills) — Skill files are plain markdown with structured frontmatter. One file per skill, one commit to add one.
 
-**Research and sources**
+### Research and sources
 
 → [REFERENCES.md](https://github.com/Owl-Listener/ai-design-skills/blob/main/REFERENCES.md) — Full bibliography: CHI papers, alignment research, NNGroup, Google PAIR. Every source that informed the skills collection.
 
