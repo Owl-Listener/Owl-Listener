@@ -47,8 +47,6 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [agent-ready](https://github.com/Owl-Listener/agent-ready) — The shared/checks.js module implements all 13 agent-readiness checks as pure functions. Fork it, add checks, plug into your pipeline.
 
-→ [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — Python CLI with clean requirements separation per model backend. Adding a new vision backend is the documented contribution path.
-
 → [ai-design-skills](https://github.com/Owl-Listener/ai-design-skills) — Skill files are plain markdown with structured frontmatter. One file per skill, one commit to add one.
 
 **Research and sources**
