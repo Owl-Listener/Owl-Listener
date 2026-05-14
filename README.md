@@ -61,6 +61,6 @@ Design × AI resources for the people designing and building agentic experiences
 
 ## What this is
 
-Owl-Listener is [MC Dean](https://marieclairedean.substack.com/). The work here is about what happens when design meets AI — not the aesthetics of AI interfaces, but the discipline of designing the relationship between a human and a new kind of intelligence.
+Owl-Listener is [MC Dean](https://marieclairedean.substack.com/). The work here is about what happens when design meets AI and the discipline of designing the relationship between a human and a new kind of intelligence.
 
 Everything is MIT or CC-licensed. Fork it, adapt it, ship it.
