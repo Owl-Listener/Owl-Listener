@@ -31,7 +31,13 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [agent-ready](https://github.com/Owl-Listener/agent-ready) — A skill + Figma plugin that scores how AI-readable your design files are, and compensates for the gaps.
 
+**Expressing aesthetic intent**
+
 → [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — Designers think in images. Agents think in text. mood.md bridges the gap.
+
+→ [voice-protocol](https://github.com/Owl-Listener/voice-protocol) — Brand strategists think in personality. Agents think in rules. voice.md bridges the gap.
+
+→ [tokens-protocol](https://github.com/Owl-Listener/tokens-protocol) — Agents can read your token values. They can't read your intent. tokens.md fills the gap.
 
 **The inclusive lens**
 
