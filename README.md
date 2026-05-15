@@ -57,6 +57,10 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [agent-design-primer](https://github.com/Owl-Listener/agent-design-primer) — The agency spectrum, user mental models, and trust calibration chapter are grounded in HCI literature and designed to be citable.
 
+### Perceptual protocols
+
+→ [perceptual-protocols](https://github.com/Owl-Listener/perceptual-protocols) — A family of protocols for how AI systems perceive and respond to human context: mood, vocab, and critique.
+
 ---
 
 ## What this is
