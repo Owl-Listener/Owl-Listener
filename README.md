@@ -33,11 +33,9 @@ Design × AI resources for the people designing and building agentic experiences
 
 ### Expressing aesthetic intent
 
-→ [mood-protocol](https://github.com/Owl-Listener/mood-protocol) — Designers think in images. Agents think in text. mood.md bridges the gap.
+→ [perceptual-protocols](https://github.com/Owl-Listener/perceptual-protocols) — Nine protocols for telling an agent how the work should feel. `mood.md` for what it should feel like, `vocab.md` for what the words mean, `voice.md` for how it writes, `tokens.md` for what the design system means, and five more. One repo, one install.
 
-→ [voice-protocol](https://github.com/Owl-Listener/voice-protocol) — Brand strategists think in personality. Agents think in rules. voice.md bridges the gap.
-
-→ [tokens-protocol](https://github.com/Owl-Listener/tokens-protocol) — Agents can read your token values. They can't read your intent. tokens.md fills the gap.
+*`mood-protocol`, `voice-protocol`, and `tokens-protocol` used to live in their own repositories. They're folders in `perceptual-protocols` now — the old repos are archived and still resolve.*
 
 ### The inclusive lens
 
@@ -56,10 +54,6 @@ Design × AI resources for the people designing and building agentic experiences
 → [RESEARCH.md](https://github.com/Owl-Listener/ai-design-skills/blob/main/RESEARCH.md) — Research-to-practice mappings: for each paper, what was adopted, what was reframed, and how the academic concept became the practitioner skill.
 
 → [agent-design-primer](https://github.com/Owl-Listener/agent-design-primer) — The agency spectrum, user mental models, and trust calibration chapter are grounded in HCI literature and designed to be citable.
-
-### Perceptual protocols
-
-→ [perceptual-protocols](https://github.com/Owl-Listener/perceptual-protocols) — A family of protocols for how AI systems perceive and respond to human context: mood, vocab, and critique.
 
 ---
 
