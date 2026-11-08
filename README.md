@@ -17,6 +17,8 @@ Design × AI resources for the people designing and building agentic experiences
 
 → [agent-design-primer](https://github.com/Owl-Listener/agent-design-primer) — The reference for agentic UX: trust, refusals, plan visibility, accessibility. Five layers, 30,000 words, free.
 
+→ [glassbox](https://github.com/Owl-Listener/glassbox) — A skill that reviews your AI product's code for the trust patterns users need: can they stop it, does it ask before acting, can they see what it did, do failures and refusals explain themselves, does it work with a screen reader. Eight checks, each grounded in the primer.
+
 ### Using AI more effectively as a designer
 
 → [ai-design-field-guide](https://github.com/Owl-Listener/ai-design-field-guide) — 46 ways to work with AI design tools. The thinking applies regardless of which tool you have open.
